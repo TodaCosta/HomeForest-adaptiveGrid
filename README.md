@@ -4,8 +4,6 @@
 # ![скрин](https://github.com/TodaCosta/HomeForest-adaptiveGrid/blob/main/screen/9.jpg)
 # ![скрин](https://github.com/TodaCosta/HomeForest-adaptiveGrid/blob/main/screen/1.jpg)
 
-# ![скрин](https://github.com/TodaCosta/HomeForest-adaptiveGrid/blob/main/screen/2.jpg)
-
 # ![скрин](https://github.com/TodaCosta/HomeForest-adaptiveGrid/blob/main/screen/3.jpg)
 
 # ![скрин](https://github.com/TodaCosta/HomeForest-adaptiveGrid/blob/main/screen/4.jpg)
